@@ -8,4 +8,4 @@ I'm Atakan — building open-source infrastructure, automation tools, and audio 
 * **[Songs2VID](https://songs2vid.com)** — Automated audio-to-video rendering for musicians and YouTube creators.
 * Checkout my other projects on my [Website](https://atakanozban.com) and [Gitea](https://git.atakanozban.com/atakan)
 #### 🛠️ Tech Stack
-`Python` • `Go` • `Rust` • `TypeScript` • `Docker` • `Linux` • `Caddy` • `PyTorch`
+`Python` • `Rust` • `C++` • `Docker` • `Linux` • `Caddy` • `PyTorch`
