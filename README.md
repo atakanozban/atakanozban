@@ -6,6 +6,7 @@ I'm Atakan — building open-source infrastructure, automation tools, and audio 
 
 * **[Exesta](https://exesta.eu)** — Zero-maintenance, flat-rate managed hosting for open-source web apps (Gitea, SearXNG, Excalidraw, etc.) running on EU bare-metal infrastructure in Budapest.
 * **[Songs2VID](https://songs2vid.com)** — Automated audio-to-video rendering for musicians and YouTube creators.
+* **[Tracepano](http://tracepano.com)** - A lightweight spatial management platform that brings your GPX files and 360° street views together in a single browser-based dashboard—powered directly by your own Google Maps API key. 
 * Checkout my other projects on my [Website](https://atakanozban.com) and [Gitea](https://git.atakanozban.com/atakan)
 #### 🛠️ Tech Stack
 `Python` • `Rust` • `C++` • `Docker` • `Linux` • `Caddy` • `PyTorch`
